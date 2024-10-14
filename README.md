@@ -9,4 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzhelan&layout=compact)
 
-不过是一个过气安卓开发而已....可能还会后端和Flutter
+过气安卓开发 可能还会后端和Flutter
