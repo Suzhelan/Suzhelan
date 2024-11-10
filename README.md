@@ -5,9 +5,7 @@
 - I usually use Java and Kotlin for development.
 - mail : suzhelan@gmail.com
 
-经常在的 有需要帮助可以按邮箱联系我
-
-有开源项目的会回关的
+有开源项目的会回关的 乐意交个朋友
 
 ![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=suzhelan&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
