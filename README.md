@@ -1,4 +1,4 @@
-## Hello I am Suzhelan
+%## Hello I am Suzhelan
 Name : 言子楪世 or 苏哲兰
 
 ### 学习爱好为主
@@ -12,4 +12,6 @@ Name : 言子楪世 or 苏哲兰
 
 ![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=suzhelan&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suzhelan&layout=compact)
 
-兜起这阵风 奔赴千千万个春
+兜起这阵风 奔赴千千万个春  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suzhelan)](https://git.io/streak-stats)
