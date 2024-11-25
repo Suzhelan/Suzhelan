@@ -1,4 +1,4 @@
-%## Hello I am Suzhelan
+## Hello I am Suzhelan
 Name : 言子楪世 or 苏哲兰
 
 ### 学习爱好为主
